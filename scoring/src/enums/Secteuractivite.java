@@ -2,7 +2,8 @@ package enums;
 
 public enum Secteuractivite {
     AGRICULTURE,
-    SERVICR,
+    SERVICE,
     COMMERCE,
     CONSTRUCTION
+
 }

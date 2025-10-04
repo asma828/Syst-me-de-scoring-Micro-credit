@@ -1,4 +1,7 @@
 package enums;
 
-public enum situation_familiale {
+public enum Situation_Familiale {
+    SINGLE,
+    MARRIED,
+    DIVORCED
 }
